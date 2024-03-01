@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ommmmn
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in ANGULAR FULL STACK DEVELOPER
 - 🌱 I’m currently learning Computer science Engineering
 
 
