@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Ommmmn
-- 👀 I’m interested in Frontend DEVELOPER
-- 🌱 I’m currently learning Computer science Engineering
+
 
 
 <!---
