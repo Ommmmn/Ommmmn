@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Suresh Natekar</h1>
-<h3 align="center">Full Stack Developer | GDSC Lead | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MlOPs enthusiasts |Tech Community Lead</h3>
 
 ---
 
@@ -33,7 +33,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-natekar&show_icons=true&theme=radical" alt="Om's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ommmmn&show_icons=true&theme=radical" alt="Om's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-natekar&theme=radical" alt="GitHub Streak"/>
 </p>
 
