@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Om Suresh Natekar</h1>
-<h3 align="center">Full Stack Developer | MlOPs enthusiasts |Tech Community Lead</h3>
+<h3 align="center">Full Stack Developer | MLOPs enthusiasts |Tech Community Lead</h3>
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -30,7 +30,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ommmmn&show_icons=true&theme=radical" alt="Om's GitHub Stats"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
+### 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ommmmn/Ommmmn/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
@@ -48,9 +48,10 @@
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 <div align="left">
-  <a href="www.linkedin.com/in/om-natekar-3a0b96276" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Om Natekar&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/om-natekar-3a0b96276/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
