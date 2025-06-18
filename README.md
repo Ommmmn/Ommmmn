@@ -32,10 +32,13 @@
 
 ### GitHub Stats
 
+### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ommmmn&show_icons=true&theme=radical" alt="Om's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-natekar&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Ommmmn&theme=radical" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
